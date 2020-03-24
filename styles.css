@@ -1,10 +1,13 @@
+h1 {
+  text-align: center;
+  margin: 50px 0;
+}
+
 .contactItem, form.contactForm {
   text-align: center;
 }
-.contactLabel {
-  color: red;
-}
-.contactEmail {
+
+.contactEmail, .contactLabel {
   color: black;
 }
 
