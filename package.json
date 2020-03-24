@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/AnnaLangner/contactForm/issues"
   },
-  "homepage": "https://github.com/AnnaLangner/contactForm#readme"
+  "homepage": "https://github.com/AnnaLangner/contactForm#readme",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
 }
