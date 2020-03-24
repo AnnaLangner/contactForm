@@ -1,0 +1,30 @@
+.contactItem, form.contactForm {
+  text-align: center;
+}
+.contactLabel {
+  color: red;
+}
+.contactEmail {
+  color: black;
+}
+
+button{
+  color: white;
+  background-color: green;
+  padding: 5px;
+  border-radius: 0.5rem;
+}
+
+img.contactImage {
+  margin-top: 50px;
+ border-radius: 50%;
+ height: 50px;
+ width: 50px;
+ text-align: center;
+}
+
+input[type="text"], input[type="email"] {
+  background-color: lightgreen;
+  padding: 5px;
+  border-radius: 0.5rem;
+}
